@@ -26,16 +26,17 @@
 - Signing-off the PDD from Business Team (Project Manager)
 - Designing the solution (Solution Architect)
 - Developing the solution (Automation Developers)
+<br>
 
 Q. What are some automation best practices to consider when automating a project? Choose all applicable answers. <br>
 **Workflow files, activities, arguments, and variables should have meaningful names, to accurately describe their usage throughout the project. <br>
 Choosing the appropriate layout type for the process we are building (sequences, flowcharts, state machines). <br>
 Using a Version Control System to easily manage project versioning and sharing the work of more developers. <br>**
 Making sure that output files are deleted at the beginning of processes before running. <br>
-**Using Upper Camel Case naming convention for workflows. <br>**
+**Using Upper Camel Case naming convention for workflows. <br>** <br>
 
 Q. How can we purposely pause the debugging process on an activity which may trigger execution issues? Choose one of the answers. <br>
-**By right-clicking the activity, and selecting Toggle Breakpoint to add and enable the breakpoint. <br>**
+**By right-clicking the activity, and selecting Toggle Breakpoint to add and enable the breakpoint. <br>** 
 By using the Step Out button from the Debug tab while debugging. <br>
 By enabling the Highlight Elements function from the Debug tab before debugging. <br>
 By using the Step Into button from the Debug tab while debugging. <br>
