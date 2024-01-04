@@ -20,3 +20,9 @@
 | Show or hide messages that have different log levels, errors, or warnings in Studio:                     | From the Output panel by clicking the buttons in the panel's header.                                           |
 | View and configure the properties of a selected activity:                                                | From the Properties panel.                                                                                     |
 
+#### Automation Implementation Process
+- Capturing the 'as-is' and 'to-be' process steps (Business Analyst)
+- Documenting the process steps (Solution Architect)
+- Signing-off the PDD from Business Team (Project Manager)
+- Designing the solution (Solution Architect)
+- Developing the solution (Automation Developers)
