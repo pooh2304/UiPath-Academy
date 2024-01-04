@@ -1,0 +1,9 @@
+{
+  "Tags": [
+    {
+      "Key": "UiPath-Academy"
+    }
+  ],
+  "SeparateRuntimeDependencies": true,
+  "IncludeSources": true
+}
