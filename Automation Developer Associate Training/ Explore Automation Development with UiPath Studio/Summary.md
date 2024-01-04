@@ -1,4 +1,5 @@
 #### [UiPath Business Automation Platform](https://www.uipath.com/product)
+
 | Discover                 | Automate                     | Operate                   |
 |--------------------------|------------------------------|---------------------------|
 | Process Mining           | Studio                       | Insights                  |
@@ -20,8 +21,7 @@ Q. Which of these UiPath products enable you to collaborate with your people and
     Integration Service<br>
     Assistant<br>
     Robots<br>**
-    Orchestrator
-<br>
+    Orchestrator <br>
 
 #### Core Components
 1. Studio <br>
@@ -39,24 +39,18 @@ Q. Which of these UiPath products enable you to collaborate with your people and
 
 
 **Attended Robot:** Works on the same machine as a human user, Job execution is triggered by human users or by related events, Works on a separate machine <br> 
-**Unattended Robot:** Job execution is triggered from Orchestrator, Works outside business hours <br>
-
-<br>
+**Unattended Robot:** Job execution is triggered from Orchestrator, Works outside business hours <br><br>
 
 Q. Which of the following is NOT an Orchestrator capability? Choose all applicable answers. <br>
 **Building automations** <br>
 Managing attended and unattended licenses <br>
 Storing credentials <br>
 Connecting to unattended robots <br>
-**Running automations in attended mode** <br>
-
-<br>
+**Running automations in attended mode** <br><br>
 
 Q. Do users need to first be added to Automation Cloud to receive any type of license? Choose one of the answers. <br>
    **Yes** <br>
-   No <br>
-
-<br>
+   No <br><br>
 
 Q. Which of the following actions can be easily performed by Studio users that are signed in to Orchestrator? Choose all applicable answers. <br>
 **Publish a package to Orchestrator. <br>
