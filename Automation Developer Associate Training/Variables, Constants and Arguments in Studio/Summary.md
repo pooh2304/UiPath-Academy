@@ -81,3 +81,8 @@ Alt + M <br>
 - From the Body of an Activity
 - From the Properties/Arguments Panel
 - From the Variables Panel
+
+
+#### Note
+- **vbLf**: This will add a new line in the text. 
+- **Math.Round**: rounds the floating number to a given precision.
