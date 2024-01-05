@@ -82,6 +82,18 @@ Alt + M <br>
 - From the Properties/Arguments Panel
 - From the Variables Panel
 
+# Global Constants and Variables
+- Can be accessed by all parts of an automation project.
+- Easier data management.
+- Can be created only from the Data Manger panel.
+- The difference between a global constant and a global variable is that none of the properties of a global constant can be altered whereas the value of a global variable can be modified during the program execution.
+
+Q. Where in Studio can global constants and variables be created and managed? Choose one of the options below. <br>
+From the Variables panel <br>
+From the body of an activity <br>
+**From the Data Manager panel** <br>
+From the Properties panel <br>
+
 
 #### Note
 - **vbLf**: This will add a new line in the text. 
