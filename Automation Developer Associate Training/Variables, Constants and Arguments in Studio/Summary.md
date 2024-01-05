@@ -35,7 +35,7 @@ Expression <br><br>
 ### Conversion Methods of Data Types 
 - Convert.ToString Method
 - Convert.Int32 Method or CInt(String)
-- Double.ToString Method
+- Double.ToString Method or CDbl(String)
 - Double.Parse Method: Converts the string representation of a number to its floating-point number equivalent
 - Boolean.ToString Method
 - Convert.ToBoolean Method
