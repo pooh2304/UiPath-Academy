@@ -1,4 +1,4 @@
-## Variables
+# Variables
 
 ### Properties of Variable
 - Name (PascalCase naming convention) - Mandatory
@@ -15,7 +15,7 @@ Default value <br>
 **Variable type** <br>
 Expression <br><br>
 
-### Data Types (Visual Basic.Net)
+## Data Types (Visual Basic.Net)
 - String - **System.String**
 - Numeric
   - Int32 - **System.Int32** 
@@ -30,6 +30,15 @@ Expression <br><br>
 - Date and Time
   - DateTime - **System.DateTime** stores specific time coordinates **(mm/dd/yyyy hh:mm:ss)**.
   - To get the current time, assign the expression **DateTime.Now**.
-  - TimeSpan - **System.TimeSpan** stores information about a duration **(dd:hh:mm:ss)**. 
+  - TimeSpan - **System.TimeSpan** stores information about a duration **(dd:hh:mm:ss)**.
 
-## Arguments
+### Conversion Methods of Data Types 
+- Convert.ToString Method
+- Convert.Int32 Method or CInt(String)
+- Double.ToString Method
+- Double.Parse Method: Converts the string representation of a number to its floating-point number equivalent
+- Boolean.ToString Method
+- Convert.ToBoolean Method
+- Convert Date and Time to String: **DateTimeVar.ToString("dd-MM-yyyy")**
+
+# Arguments
