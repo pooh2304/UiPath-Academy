@@ -49,4 +49,35 @@ ToString(expression) <br>
 Parse(expression) <br>
 ToBoolean(expression) <br>
 
+### Workflows Layouts
+Use action verbs in workflow names.
+- Sequences
+- Flowcharts
+- State Machines
+
 # Arguments
+- Arguments pass data between workflows. 
+- Arguments have specific directions: **In, Out, and In/Out**. 
+- PascalCase naming convention.
+- Use prefixes in argument names.
+
+| Variables                                       | Arguments                                                         |
+|-------------------------------------------------|-------------------------------------------------------------------|
+| Don't have directions like In, Out, or In/Out.   | Do have directions like In, Out, In/Out.                          |
+| To create a variable press: Ctrl + K.            | To create an In Argument press: Ctrl + M. To create an Out Argument press: Ctrl + Shift + M.  |
+| To create variables, there must be at least one activity in the Designer Panel. | Arguments can be created if the Designer panel doesn't contain any activity. |
+| Require a defined scope.                        | Do not require a scope.                                           |
+
+<br> 
+
+Q. What is the keyboard shortcut to create an argument of direction IN? Choose one of the options below. <br>
+Ctrl + K <br>
+Ctrl + Shift + M <br>
+**Ctrl + M** <br>
+Alt + M <br>
+
+## Creating Variables/Arguments
+- From the Data Manager
+- From the Body of an Activity
+- From the Properties/Arguments Panel
+- From the Variables Panel
