@@ -41,4 +41,12 @@ Expression <br><br>
 - Convert.ToBoolean Method
 - Convert Date and Time to String: **DateTimeVar.ToString("dd-MM-yyyy")**
 
+<br>
+
+Q. What of the following method converts a specified value to an integer? Choose one of the options below. <br>
+ToString(expression) <br>
+**CInt(expression)** <br>
+Parse(expression) <br>
+ToBoolean(expression) <br>
+
 # Arguments
