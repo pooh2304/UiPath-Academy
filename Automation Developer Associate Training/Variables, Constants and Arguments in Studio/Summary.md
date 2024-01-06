@@ -67,5 +67,5 @@ Use action verbs in workflow names.
 - The difference between a global constant and a global variable is that none of the properties of a global constant can be altered whereas the value of a global variable can be modified during the program execution.
 
 #### Note:
-- **vbLf**: This will add a new line in the text. 
+- **vbLf** or **Environment.NewLine**: This will add a new line in the text. 
 - **Math.Round**: rounds the floating number to a given precision.
