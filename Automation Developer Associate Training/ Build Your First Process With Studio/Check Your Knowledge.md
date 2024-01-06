@@ -17,11 +17,13 @@ Using a Version Control System to easily manage project versioning and sharing t
 Making sure that output files are deleted at the beginning of processes before running. <br>
 **Using Upper Camel Case naming convention for workflows.** <br><br>
 
+
 3. How can we purposely pause the debugging process on an activity which may trigger execution issues? Choose one of the answers. <br>
 **By right-clicking the activity, and selecting Toggle Breakpoint to add and enable the breakpoint. <br>** 
 By using the Step Out button from the Debug tab while debugging. <br>
 By enabling the Highlight Elements function from the Debug tab before debugging. <br>
 By using the Step Into button from the Debug tab while debugging. <br><br>
+
 
 4. How can we publish to the 'Orchestrator Personal Workspace Feed'? Choose one of the answers. <br>
 **By first enabling the option in Orchestrator and then selecting 'Orchestrator Personal Workspace Feed' when publishing in Studio.** <br>
