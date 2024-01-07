@@ -12,6 +12,7 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "EmailAddress&Sequence_3",
         "UserName&Sequence_3",
         "Status&Sequence_3"
       ],
