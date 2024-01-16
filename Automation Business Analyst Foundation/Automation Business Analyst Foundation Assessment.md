@@ -94,18 +94,14 @@
 29. What are the responsibilities of a Business Analyst in the Business Case and Technical Validation stage of the Implementation Methodology Model?
     - Validates the business case for the selected use cases and the cost benefit part of it.
 
-30. What are the two outputs of the Solution Design stage of the Implementation Methodology Model?
-    - Approved Solution Design Document (SDD).
-    - Completed Application Tracker.
-
-31. Which two (2) of the following statements are TRUE with respect to process mapping using UiPath Task Capture?
+30. Which two (2) of the following statements are TRUE with respect to process mapping using UiPath Task Capture?
     - Use Capture Process when the process structure is not well known.
     - Build Diagram is best suited for complex processes with branching scenarios.
 
-32. How can you add additional details to a captured task in UiPath Task Capture?
+31. How can you add additional details to a captured task in UiPath Task Capture?
     - By attaching a screenshot.
 
-33. What is the primary purpose of UiPath Task Capture?
+32. What is the primary purpose of UiPath Task Capture?
     - To capture and document business processes.
 
 
