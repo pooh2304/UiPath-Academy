@@ -87,26 +87,35 @@
 27. How can you add additional details to a captured task in UiPath Task Capture?
     - By attaching a screenshot.
 
+Which document provides information about change requests and modifications in their status?
+Traceability Matrix
 
+What is Task Capture?
+It is a process discovery tool that enables you to record, revise and share process documentation.
 
+Once an automation idea is submitted, the Idea Approver reviews the submitted ideas. In the next phase the automation ideas are further evaluated to gain a better understanding of their scope and the technology needed to implement them. Which ‘phase’ is being referred to here?
+Assessment phase 
 
+Who fills in the Cost Benefit Analysis?
+Project Manager assigned to the automation idea
 
+Which statement is true about UiPath Process Mining?
+UiPath Process Mining can be used to mine any process that uses IT systems and runs digitally leaving behind digital footprints.
 
+When should Assisted Task Mining be used?
+To document the steps of a known task.
 
+Which persona in Unassisted Task Mining is responsible for the set-up of the Unassisted Task Mining projects and configuring them in the UiPath Automation Cloud or UiPath Automation Suite?
+Task Mining Admin
 
+During which stage of the Implementation Methodology Model are the potential automations assessed for their business value, complexity, and feasibility?
+Business Case and Technical Validation
 
+What are the responsibilities of a Business Analyst in the Business Case and Technical Validation stage of the Implementation Methodology Model?
+Validates the business case for the selected use cases and the cost benefit part of it.
 
-
-
-
-
-
-
-
-
-
-
-
+In this model, the unattended robot initiates processes based on schedules or triggers and requests your input when needed. Which automation model is this?
+Human in the loop
 
 
 
