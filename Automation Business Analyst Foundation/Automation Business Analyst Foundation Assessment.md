@@ -88,20 +88,17 @@
 27. Which one of the following statements is TRUE about Attended robots?
     - Attended robots can be triggered by the user.
 
-28. What automation category does automation of repetitive and mundane tasks like data entry, data extraction, file management, and document processing fall into?
-    - Task Automation
-
-29. What are the responsibilities of a Business Analyst in the Business Case and Technical Validation stage of the Implementation Methodology Model?
+28. What are the responsibilities of a Business Analyst in the Business Case and Technical Validation stage of the Implementation Methodology Model?
     - Validates the business case for the selected use cases and the cost benefit part of it.
 
-30. Which two (2) of the following statements are TRUE with respect to process mapping using UiPath Task Capture?
+29. Which two (2) of the following statements are TRUE with respect to process mapping using UiPath Task Capture?
     - Use Capture Process when the process structure is not well known.
     - Build Diagram is best suited for complex processes with branching scenarios.
 
-31. How can you add additional details to a captured task in UiPath Task Capture?
+30. How can you add additional details to a captured task in UiPath Task Capture?
     - By attaching a screenshot.
 
-32. What is the primary purpose of UiPath Task Capture?
+31. What is the primary purpose of UiPath Task Capture?
     - To capture and document business processes.
 
 
