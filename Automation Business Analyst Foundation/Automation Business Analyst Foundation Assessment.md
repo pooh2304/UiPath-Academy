@@ -57,49 +57,37 @@
     - Idea Approvers
       
 18. Which one of the following statements is TRUE about the Process Definition Document (PDD)?
-    - PDD ensures the transfer of knowledge from the user group to the developers.
-      
-19. Which statement holds TRUE about Unassisted Task Mining?
-    - Unassisted Task Mining records a set of applications over an extended period of time to understand how employees perform their work.
+    - PDD ensures the transfer of knowledge from the user group to the developers.      
      
-20. What is UiPath Process Mining?
+19. What is UiPath Process Mining?
     - UiPath Process Mining transforms raw data into real process intelligence for analysis.
 
-21. Which two of the following roles don’t have access to cost related columns?
-    - Citizen Developer Power Users
-    - Idea Approvers
-
-22. Which two of the following are correct ways of submitting ideas in Automation Hub?
-    - Submitting an Employee-driven idea.
-    - Submitting an idea from UiPath Process Mining.
-
-23. Which type of idea bypasses the idea approver’s approval process?
+20. Which type of idea bypasses the idea approver’s approval process?
     - CoE-driven idea
 
-24. Which one of the following roles has the authority to create new customized roles in addition to the default ones?
+21. Which one of the following roles has the authority to create new customized roles in addition to the default ones?
     - System Admin
 
-25. Which UiPath tool enables real-time monitoring of automated processes by tracking key performance indicators (KPIs) such as completed processes, processing time, error rates, and resource utilization?
+22. Which UiPath tool enables real-time monitoring of automated processes by tracking key performance indicators (KPIs) such as completed processes, processing time, error rates, and resource utilization?
     - UiPath Insights
 
-26. Which one among the following statements is true about UiPath Automaton Hub?
+23. Which one among the following statements is true about UiPath Automaton Hub?
     - You can use Automation Hub to track the progress of automation initiatives.
 
-27. Which one of the following statements is TRUE about Attended robots?
+24. Which one of the following statements is TRUE about Attended robots?
     - Attended robots can be triggered by the user.
 
-28. What are the responsibilities of a Business Analyst in the Business Case and Technical Validation stage of the Implementation Methodology Model?
+25. What are the responsibilities of a Business Analyst in the Business Case and Technical Validation stage of the Implementation Methodology Model?
     - Validates the business case for the selected use cases and the cost benefit part of it.
 
-29. Which two (2) of the following statements are TRUE with respect to process mapping using UiPath Task Capture?
+26. Which two (2) of the following statements are TRUE with respect to process mapping using UiPath Task Capture?
     - Use Capture Process when the process structure is not well known.
     - Build Diagram is best suited for complex processes with branching scenarios.
 
-30. How can you add additional details to a captured task in UiPath Task Capture?
+27. How can you add additional details to a captured task in UiPath Task Capture?
     - By attaching a screenshot.
 
-31. What is the primary purpose of UiPath Task Capture?
-    - To capture and document business processes.
+
 
 
 
